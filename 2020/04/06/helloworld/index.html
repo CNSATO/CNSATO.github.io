@@ -99,14 +99,6 @@
             <a class="nav-link" href="/about/">关于石头</a>
           </li>
         
-          
-          
-          
-          
-          <li class="nav-item">
-            <a class="nav-link" href="/mc/">MC服务器卫星地图</a>
-          </li>
-        
         
           <li class="nav-item" id="search-btn">
             <a class="nav-link" data-toggle="modal" data-target="#modalSearch">&nbsp;&nbsp;<i
@@ -146,13 +138,14 @@
                 
 
                 
-                  
-                  <span class="post-meta">
-                      <i class="far fa-clock"></i>
-                      1 分钟
-                  </span>
-                
 
+                
+                  <!-- 不蒜子统计文章PV -->
+                  
+                  <span id="busuanzi_container_page_pv" class="post-meta" style="display: none">
+                    <i class="far fa-eye" aria-hidden="true"></i>
+                    阅读<span id="busuanzi_value_page_pv"></span> 次
+                  </span>
                 
               </p>
             
@@ -175,6 +168,9 @@
       <div class="container nopadding-md" id="board-ctn">
         <div class="py-5 z-depth-3" id="board">
           <div class="post-content mx-auto" id="post">
+            
+              <p
+                class="note note-warning">本文最后更新于：星期一, 四月 6日 2020, 7:50 晚上</p>
             
             <div class="markdown-body">
               <p>测试！<br>本来的话本地这边直接保存网页就跟着改了，<br>推到github之后想要更新还要hexo clean+hexo g+hexo d几次，有、烦<br>（还是我太傻了用错了？）<br>过一会发一篇新的继续测试</p>
@@ -404,6 +400,8 @@
 
 
 
+  <script defer src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" ></script>
+
 
 
 
@@ -429,7 +427,7 @@
         "helloworld&nbsp;",
       ],
       cursorChar: "_",
-      typeSpeed: 70,
+      typeSpeed: 75,
       loop: false,
     });
     typed.stop();
