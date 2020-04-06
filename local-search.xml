@@ -8,7 +8,7 @@
     <link href="/2020/04/06/helloworld/"/>
     <url>/2020/04/06/helloworld/</url>
     
-    <content type="html"><![CDATA[<p>测试！<br>本来的话本地这边直接保存网页就跟着改了，<br>推到github之后还要hexo clean+hexo g+hexo d一下<br>测试2</p>]]></content>
+    <content type="html"><![CDATA[<p>测试！<br>本来的话本地这边直接保存网页就跟着改了，<br>推到github之后想要更新还要hexo clean+hexo g+hexo d一下<br>过一会发一篇新的继续测试</p>]]></content>
     
     
     
