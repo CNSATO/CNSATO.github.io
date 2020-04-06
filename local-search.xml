@@ -4,11 +4,24 @@
   
   
   <entry>
+    <title>人类的一小步！</title>
+    <link href="/2020/04/06/%E4%BA%BA%E7%B1%BB%E7%9A%84%E4%B8%80%E5%B0%8F%E6%AD%A5%EF%BC%81/"/>
+    <url>/2020/04/06/%E4%BA%BA%E7%B1%BB%E7%9A%84%E4%B8%80%E5%B0%8F%E6%AD%A5%EF%BC%81/</url>
+    
+    <content type="html"><![CDATA[<p>想不到吧，我还在用notepad++来编这个<br>（以后换掉）<br>有一说一，GitHub的速度是真的8行<br>但是不会弄那个虚拟主机。。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>helloworld</title>
     <link href="/2020/04/06/helloworld/"/>
     <url>/2020/04/06/helloworld/</url>
     
-    <content type="html"><![CDATA[<p>测试！<br>本来的话本地这边直接保存网页就跟着改了，<br>推到github之后想要更新还要hexo clean+hexo g+hexo d一下<br>过一会发一篇新的继续测试</p>]]></content>
+    <content type="html"><![CDATA[<p>测试！<br>本来的话本地这边直接保存网页就跟着改了，<br>推到github之后想要更新还要hexo clean+hexo g+hexo d几次，有、烦<br>（还是我太傻了用错了？）<br>过一会发一篇新的继续测试</p>]]></content>
     
     
     
